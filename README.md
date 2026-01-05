@@ -1,6 +1,5 @@
-# Parcial1
-Proyecto Parcial Java.
-En el lo descrito me refiero en muchas partes de la explicación como un grupo, es porque la maquina y yo trabajos en conjunto para realizar el proyecto
+# Proyecto Java.
+En lo descrito me refiero en muchas partes de la explicación como un grupo, es porque la maquina y yo trabajos en conjunto para realizar el proyecto
 
 EL siguiente proyecto es un gestionador de tareas creamos 6 clases y 2 excepciones las excepciones nos sirven si un usuario no existe o no encontrado, la fecha de proyecto a finalizado y si un proyecto no existe.
 
